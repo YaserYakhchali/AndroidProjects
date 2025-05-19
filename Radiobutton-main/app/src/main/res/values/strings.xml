@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">radiobutton</string>
+    <string name="txv">Radiobutton</string>
+    <string name="btn"> Choose</string>
+    <string name="rb1"> ژن </string>
+    <string name="rb2">مرد </string>
+</resources>
